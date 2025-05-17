@@ -2,6 +2,7 @@
 
 ## Uso:
 Descargar duck_ctf y ejecutar en terminal:
+Este CTF se creó para ejecutarse con un equipo linux con gwen viewer y firefox
 
 ```bash
 ./duck_ctf
