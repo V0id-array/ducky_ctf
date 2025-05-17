@@ -1,8 +1,8 @@
 # ducky_ctf
-
+nota: Este CTF se creó para ejecutarse con un equipo linux con Gwenview y firefox
 ## Uso:
 Descargar duck_ctf y ejecutar en terminal:
-Este CTF se creó para ejecutarse con un equipo linux con Gwenview y firefox
+
 
 ```bash
 ./duck_ctf
